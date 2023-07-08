@@ -1,0 +1,29 @@
+* {
+    background-color: cornflowerblue;
+}
+h1{
+    color:bisque;
+    background-color: rgb(106, 130, 175);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    list-style: disc;
+}
+.para{
+    color:rgb(253, 207, 215);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.link{
+    color: gainsboro ;
+    font-size: 18px;
+    
+}
+.link.first{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.link.second{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
