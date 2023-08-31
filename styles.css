@@ -1,29 +1,49 @@
 * {
-    background-color: cornflowerblue;
+    background-color: #D2D0BA;
+    
 }
 h1{
-    color:bisque;
-    background-color: rgb(106, 130, 175);
+    color:#7B9E87;
+    background-color: #B6BE9C;
     font-size: 30px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:  Tahoma, sans-serif;
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 5px solid #dbdbb2 ;
+    
 }
 ul{
     list-style: disc;
+    color: #5E747F;
+
+}
+body{
+    border: 5px solid beige;
+    padding: 0px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 .para{
-    color:rgb(253, 207, 215);
+    color:#5E747F;
     font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
 }
 .link{
-    color: gainsboro ;
+    color: #5E747F ;
     font-size: 18px;
+    padding: 0px;
     
 }
 .link.first{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding-top: 10px;
 }
 .link.second{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    padding-top: 10px;
 }
